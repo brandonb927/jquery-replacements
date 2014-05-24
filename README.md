@@ -1,6 +1,6 @@
 # jquery-replacements
 
-My personal recommendations, a list of JS libraries to replace jQuery in fewer bytes.
+A list of my personally recommended JS libraries to replace jQuery functions, in fewer bytes.
 
 ## DOM Manipulation
 - https://github.com/webpro/DOMtastic

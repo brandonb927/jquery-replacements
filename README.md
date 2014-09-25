@@ -1,13 +1,13 @@
-### (almost) straight across replacement
+## (almost) straight across replacement
 
 - https://github.com/kenwheeler/cash/
 
-### A list of my personally recommended JS libraries to replace jQuery functions, in fewer bytes.
+## A list of my personally recommended JS libraries to replace jQuery functions, in fewer bytes.
 
-## DOM Manipulation
+### DOM Manipulation
 - https://github.com/webpro/DOMtastic
 - https://github.com/component/dom
 
 
-## AJAX
+### AJAX
 - https://github.com/ForbesLindesay/ajax

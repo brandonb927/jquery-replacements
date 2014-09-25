@@ -1,6 +1,8 @@
-# jquery-replacements
+### (almost) straight across replacement
 
-A list of my personally recommended JS libraries to replace jQuery functions, in fewer bytes.
+- https://github.com/kenwheeler/cash/
+
+### A list of my personally recommended JS libraries to replace jQuery functions, in fewer bytes.
 
 ## DOM Manipulation
 - https://github.com/webpro/DOMtastic
@@ -9,4 +11,3 @@ A list of my personally recommended JS libraries to replace jQuery functions, in
 
 ## AJAX
 - https://github.com/ForbesLindesay/ajax
-
